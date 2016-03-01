@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>12A2FDDA-00C9-475D-BF84-2485220294B6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>爱之心</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BE324A21B025612F998CC87103A6D511267A716D</key>
+		<string>https://github.com/Skywander/-.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Runner/爱之心.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BE324A21B025612F998CC87103A6D511267A716D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Skywander/-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BE324A21B025612F998CC87103A6D511267A716D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BE324A21B025612F998CC87103A6D511267A716D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Runner</string>
+		</dict>
+	</array>
+</dict>
+</plist>

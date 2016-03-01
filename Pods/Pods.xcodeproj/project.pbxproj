@@ -1,0 +1,1766 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		007F391144C56F58EE0552B3 = {
+			isa = PBXBuildFile;
+			fileRef = DFDAC7B868D32E2B49D92C4F;
+		};
+		10CF4BEE1E473A9260970863 = {
+			isa = PBXBuildFile;
+			fileRef = A126BDECACFCCC41F1B17169;
+		};
+		14D0BCB1D4C12D46539EBFAB = {
+			isa = PBXBuildFile;
+			fileRef = A60C4D36AF46955E111DCA84;
+			settings = {
+				COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0";
+			};
+		};
+		16C15B6B2E454A5BBB0F6F80 = {
+			isa = PBXBuildFile;
+			fileRef = 1D013BE043AE87D8DF1D027E;
+		};
+		218638A4A1991BF9C872DBD4 = {
+			isa = PBXBuildFile;
+			fileRef = 15557286DA9B4B4DAEF1EB42;
+		};
+		23AAB44EA3D8FC4EDBA74EB8 = {
+			isa = PBXBuildFile;
+			fileRef = 0B0348CE8A19E47D77F49C31;
+		};
+		24366783974BAED030200946 = {
+			isa = PBXBuildFile;
+			fileRef = 7814AB3EDF998528A90AD791;
+		};
+		24399298C39D0E5AC57D037A = {
+			isa = PBXBuildFile;
+			fileRef = 33F3F2662C172795F848AC74;
+		};
+		282720A2F449B90A01EDDC25 = {
+			isa = PBXBuildFile;
+			fileRef = D077B0163C9417BA90EE9323;
+		};
+		2B402AE9DA2670278AF35011 = {
+			isa = PBXBuildFile;
+			fileRef = 74C333535E6FAF3E2DC7347A;
+		};
+		2C400E3D14E7A8F3398EBF4F = {
+			isa = PBXBuildFile;
+			fileRef = 9689326C822B11A34F7795B0;
+		};
+		2F62FD9FDBE87E0B96BDD370 = {
+			isa = PBXBuildFile;
+			fileRef = 4289C69E5F55E42C8AF272AA;
+		};
+		30A11BB677606A3563C37955 = {
+			isa = PBXBuildFile;
+			fileRef = 18794558FB5DFC1932318E4B;
+		};
+		31A0F74CAA7F7D4F98873B51 = {
+			isa = PBXBuildFile;
+			fileRef = 8B68E21EF49E36116BD623E8;
+		};
+		35D3F309D7ABF3FC85382C50 = {
+			isa = PBXBuildFile;
+			fileRef = 97A760AF615C6D3E77A954EC;
+		};
+		3EBCAAA69035AC657E751206 = {
+			isa = PBXBuildFile;
+			fileRef = B0666B719CD12D105323804A;
+		};
+		42C1B777F4EB0DE3070E43BF = {
+			isa = PBXBuildFile;
+			fileRef = 53DC1E0D0BBD20F081165E70;
+			settings = {
+				COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0";
+			};
+		};
+		4435DEA65B96F5BCE273AEC1 = {
+			isa = PBXBuildFile;
+			fileRef = 846AD9698D796257716B753A;
+			settings = {
+				COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0";
+			};
+		};
+		472A45D8379BCF63E3B47243 = {
+			isa = PBXBuildFile;
+			fileRef = A8E8838EEC84F5624707B93B;
+		};
+		4B0C586B0677322FB6F01FA4 = {
+			isa = PBXBuildFile;
+			fileRef = 99615ECBB5C4E7009318A451;
+		};
+		4F0DAB398B44E817BECD1DFF = {
+			isa = PBXBuildFile;
+			fileRef = 7A3B54590B673C10B6EC2B16;
+		};
+		519C809D430C9788BA5F66BA = {
+			isa = PBXBuildFile;
+			fileRef = D7040F8BA55BFBD0D6B6A55C;
+		};
+		561A684F190C918197E260E6 = {
+			isa = PBXBuildFile;
+			fileRef = 3870FE3F13B796C005F40AED;
+		};
+		5763A7A9DF46C5F89CD35906 = {
+			isa = PBXBuildFile;
+			fileRef = 2E7FC854EF7109BA40CECC4C;
+		};
+		588B79F9A1D8F28C74F7A601 = {
+			isa = PBXBuildFile;
+			fileRef = 09FDA805373B687CC49C5000;
+		};
+		5FCC332323C4A1A2E3BFC4B7 = {
+			isa = PBXBuildFile;
+			fileRef = 67B6C30484965C4319123EA5;
+		};
+		624441CE20FAD962B4C50857 = {
+			isa = PBXBuildFile;
+			fileRef = 450481E523FF1B7B94EF98EF;
+			settings = {
+				COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0";
+			};
+		};
+		648BAFFA6D14E8317426B46C = {
+			isa = PBXBuildFile;
+			fileRef = A6A90F4076DF39CF6B129BBA;
+		};
+		67153D8226DAD2C0757D9793 = {
+			isa = PBXBuildFile;
+			fileRef = 6B7D7299B29B9EF697316860;
+		};
+		690D2FA8BEB1FD9D660A57CF = {
+			isa = PBXBuildFile;
+			fileRef = 5056709C7E5A3A1B7A8DA3D7;
+		};
+		694D6A7B6573D6F24FFC7B13 = {
+			isa = PBXBuildFile;
+			fileRef = 601055C50BDABB82161FAD4B;
+		};
+		6A86DF93F2647F6E807DBDDB = {
+			isa = PBXBuildFile;
+			fileRef = C7A57619715B7226B8CC2945;
+		};
+		6B351A79D60CDB9DEF155427 = {
+			isa = PBXBuildFile;
+			fileRef = FA127943919F1CC1A80EA2AA;
+		};
+		6C207D697D5EBB1B4AD8FF67 = {
+			isa = PBXBuildFile;
+			fileRef = DC66AD2A9657BCE003368AF1;
+		};
+		6DFCBEA297B587C467A154B0 = {
+			isa = PBXBuildFile;
+			fileRef = E3E16DB1546F3D46419F4F29;
+		};
+		73D02CC301DC2E4CDE44ADD0 = {
+			isa = PBXBuildFile;
+			fileRef = 6CCEAD12885F2A0F11E6A98D;
+		};
+		7B1116D4718639A18BCEC6CC = {
+			isa = PBXBuildFile;
+			fileRef = 5319D003C56B80418362C003;
+		};
+		8137BC43F7D993C5B33BD9F0 = {
+			isa = PBXBuildFile;
+			fileRef = 7D622800E55CBCBA2482A57C;
+		};
+		863473E271EF98E48BF6E44C = {
+			isa = PBXBuildFile;
+			fileRef = 3FAF37AB443AE4601B76CD6B;
+		};
+		8E1A6D98C01F6726B4581CCC = {
+			isa = PBXBuildFile;
+			fileRef = 3BC672512BBDF16C8B7135B7;
+		};
+		903B48980AFF10D25591AF98 = {
+			isa = PBXBuildFile;
+			fileRef = 8B3E0FD479B078D94F11E177;
+		};
+		943D7447471D9F143A41C4D6 = {
+			isa = PBXBuildFile;
+			fileRef = F2349E699AC2D28AE72A14CD;
+		};
+		94F649720E9EC44ADA543F7F = {
+			isa = PBXBuildFile;
+			fileRef = 20891B4DD79CE05439C5C8E3;
+			settings = {
+				COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0";
+			};
+		};
+		9C5BCA3D6D55F8BB6A1B2747 = {
+			isa = PBXBuildFile;
+			fileRef = FDDC1C2BF72E869D7BC52F90;
+		};
+		A21499D7F16D7A9F6688DE08 = {
+			isa = PBXBuildFile;
+			fileRef = BB1529B0DE1FD9056FCFE1D5;
+		};
+		A2C515B2769A97571A129814 = {
+			isa = PBXBuildFile;
+			fileRef = 23CEC109F85B2B4141CB2FCF;
+			settings = {
+				COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0";
+			};
+		};
+		A35AB26895B31839162CB7D5 = {
+			isa = PBXBuildFile;
+			fileRef = C00BEBCB7C01D755C9548CA3;
+		};
+		A3EA604FBBEA0658FA85C80B = {
+			isa = PBXBuildFile;
+			fileRef = C6A62089248425B7834E74CD;
+			settings = {
+				COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0";
+			};
+		};
+		A4188B37A8D9AC7EE956F44D = {
+			isa = PBXBuildFile;
+			fileRef = 1A0158D1D16394581966956F;
+		};
+		A436B5F48748C3093CA445E0 = {
+			isa = PBXBuildFile;
+			fileRef = C9D568FDFC4E5D35204AA844;
+		};
+		B440A2906167C2233A019E81 = {
+			isa = PBXBuildFile;
+			fileRef = A6A90F4076DF39CF6B129BBA;
+		};
+		B497092FCC09D6239B2A175F = {
+			isa = PBXBuildFile;
+			fileRef = EC2E92917DEB87A6EDB1A37E;
+			settings = {
+				COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0";
+			};
+		};
+		BB8A66EEE0F89F590E2362BE = {
+			isa = PBXBuildFile;
+			fileRef = 697C240D7F769439CC2351D8;
+		};
+		BFE75ECE431FF031B6F56998 = {
+			isa = PBXBuildFile;
+			fileRef = F72A83DB29A199F0643BF886;
+			settings = {
+				COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0";
+			};
+		};
+		C5EAAC9184ECF9367C4A59A5 = {
+			isa = PBXBuildFile;
+			fileRef = 2445EA860AE56CA19DA9871B;
+		};
+		CCC7904C4436B50FC3E55A7A = {
+			isa = PBXBuildFile;
+			fileRef = C4583995B99942F7387C4A49;
+		};
+		CFD4BE13041DF7EB0171B568 = {
+			isa = PBXBuildFile;
+			fileRef = 8CCA7FF1B99363AE0EAB2DA7;
+		};
+		D041D9F4A2A3E08A30BF0437 = {
+			isa = PBXBuildFile;
+			fileRef = 7EE947957A3F30C96DE375C4;
+		};
+		D07136C491C952320BFCAA58 = {
+			isa = PBXBuildFile;
+			fileRef = A6A90F4076DF39CF6B129BBA;
+		};
+		DA5F4B29C685E99CE9584A50 = {
+			isa = PBXBuildFile;
+			fileRef = 24514BD0C3EE4DC6404620C6;
+		};
+		DB0B796205961AEE06ED0D40 = {
+			isa = PBXBuildFile;
+			fileRef = 11B001EAF843396AB2FA580F;
+		};
+		E0E0819723EFF5B099686A89 = {
+			isa = PBXBuildFile;
+			fileRef = BDEF42F3B459C24B07A14856;
+		};
+		E4181F4CDE2C7481AA7B516D = {
+			isa = PBXBuildFile;
+			fileRef = 42776252B6BD10168C80DBCC;
+		};
+		E998580258B5679CAA8E7A60 = {
+			isa = PBXBuildFile;
+			fileRef = A21F9B3F2DF6EC62E8E81C7A;
+		};
+		F01AF89CD0DF05A41C18114C = {
+			isa = PBXBuildFile;
+			fileRef = 3FBCCD01D883DF5520FCE3A7;
+		};
+		F4794FF4A0C2E18DAE13DE88 = {
+			isa = PBXBuildFile;
+			fileRef = A160E4A5F5C62A14224250E9;
+		};
+		F55C8CE74FB8F36D2C6D9C89 = {
+			isa = PBXBuildFile;
+			fileRef = A5FAE22486C3BB536255EF60;
+		};
+		F8939630C712D8C6C7797919 = {
+			isa = PBXBuildFile;
+			fileRef = D2B10FAAD287B7B4A5D86CF4;
+		};
+		FA8BA4A3F418C5E3981C2A07 = {
+			isa = PBXBuildFile;
+			fileRef = 851797639460470C617E84FE;
+		};
+		FAFB628E97600B670F81F75E = {
+			isa = PBXBuildFile;
+			fileRef = C49DF600DE9860CAEF983F15;
+			settings = {
+				COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0";
+			};
+		};
+		FD11327815DC6EC24FE24FE9 = {
+			isa = PBXBuildFile;
+			fileRef = 9353F6F7CD9E3AED34D9F4BD;
+			settings = {
+				COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0";
+			};
+		};
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		31881A39A90F99AFC308820A = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D8E574ECDEF5B11953977813;
+			proxyType = 1;
+			remoteGlobalIDString = D29F721C6A90D374F0CC7979;
+			remoteInfo = "Pods-AFNetworking";
+		};
+		D517847E5F1C14DEF32B391D = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D8E574ECDEF5B11953977813;
+			proxyType = 1;
+			remoteGlobalIDString = 34B9449DED49BF85C9BBB6DE;
+			remoteInfo = "Pods-IQKeyboardManager";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0497F666608AA9BA7EBE1C84 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			path = MAMapKit.framework;
+			sourceTree = "<group>";
+		};
+		08FA2C4C9F099E3D288B0982 = {
+			isa = PBXFileReference;
+			explicitFileType = archive.ar;
+			includeInIndex = 0;
+			name = "libPods-AFNetworking.a";
+			path = "libPods-AFNetworking.a";
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		09FDA805373B687CC49C5000 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = IQTitleBarButtonItem.h;
+			path = IQKeyBoardManager/IQToolbar/IQTitleBarButtonItem.h;
+			sourceTree = "<group>";
+		};
+		0B0348CE8A19E47D77F49C31 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = AFURLRequestSerialization.h;
+			path = AFNetworking/AFURLRequestSerialization.h;
+			sourceTree = "<group>";
+		};
+		0F7C96A1678401A4D6154DFF = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.xcconfig;
+			path = "Pods-IQKeyboardManager-Private.xcconfig";
+			sourceTree = "<group>";
+		};
+		11B001EAF843396AB2FA580F = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = AFHTTPRequestOperation.m;
+			path = AFNetworking/AFHTTPRequestOperation.m;
+			sourceTree = "<group>";
+		};
+		15557286DA9B4B4DAEF1EB42 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "UIImageView+AFNetworking.h";
+			path = "UIKit+AFNetworking/UIImageView+AFNetworking.h";
+			sourceTree = "<group>";
+		};
+		18794558FB5DFC1932318E4B = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = AFURLSessionManager.m;
+			path = AFNetworking/AFURLSessionManager.m;
+			sourceTree = "<group>";
+		};
+		1A0158D1D16394581966956F = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = MobileCoreServices.framework;
+			path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/MobileCoreServices.framework;
+			sourceTree = DEVELOPER_DIR;
+		};
+		1D013BE043AE87D8DF1D027E = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = IQBarButtonItem.h;
+			path = IQKeyBoardManager/IQToolbar/IQBarButtonItem.h;
+			sourceTree = "<group>";
+		};
+		20891B4DD79CE05439C5C8E3 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = IQToolbar.m;
+			path = IQKeyBoardManager/IQToolbar/IQToolbar.m;
+			sourceTree = "<group>";
+		};
+		23CEC109F85B2B4141CB2FCF = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = IQSegmentedNextPrevious.m;
+			path = IQKeyBoardManager/IQSegmentedNextPrevious/IQSegmentedNextPrevious.m;
+			sourceTree = "<group>";
+		};
+		2445EA860AE56CA19DA9871B = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = IQSegmentedNextPrevious.h;
+			path = IQKeyBoardManager/IQSegmentedNextPrevious/IQSegmentedNextPrevious.h;
+			sourceTree = "<group>";
+		};
+		24514BD0C3EE4DC6404620C6 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = IQKeyboardManager.h;
+			path = IQKeyBoardManager/IQKeyboardManager.h;
+			sourceTree = "<group>";
+		};
+		2E7FC854EF7109BA40CECC4C = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "UIButton+AFNetworking.h";
+			path = "UIKit+AFNetworking/UIButton+AFNetworking.h";
+			sourceTree = "<group>";
+		};
+		30903D6A5A38FF4711A27E59 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.script.sh;
+			path = "Pods-resources.sh";
+			sourceTree = "<group>";
+		};
+		33F3F2662C172795F848AC74 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = AFNetworkActivityIndicatorManager.h;
+			path = "UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h";
+			sourceTree = "<group>";
+		};
+		3687B71CACC7A3064AD30D11 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.xcconfig;
+			path = "Pods-IQKeyboardManager.xcconfig";
+			sourceTree = "<group>";
+		};
+		3870FE3F13B796C005F40AED = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "Pods-AFNetworking-dummy.m";
+			sourceTree = "<group>";
+		};
+		3BC672512BBDF16C8B7135B7 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = AFHTTPSessionManager.h;
+			path = AFNetworking/AFHTTPSessionManager.h;
+			sourceTree = "<group>";
+		};
+		3FAF37AB443AE4601B76CD6B = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = "UIButton+AFNetworking.m";
+			path = "UIKit+AFNetworking/UIButton+AFNetworking.m";
+			sourceTree = "<group>";
+		};
+		3FBCCD01D883DF5520FCE3A7 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = "UIProgressView+AFNetworking.m";
+			path = "UIKit+AFNetworking/UIProgressView+AFNetworking.m";
+			sourceTree = "<group>";
+		};
+		42776252B6BD10168C80DBCC = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = "UIActivityIndicatorView+AFNetworking.m";
+			path = "UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m";
+			sourceTree = "<group>";
+		};
+		4289C69E5F55E42C8AF272AA = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "IQNSArray+Sort.h";
+			path = "IQKeyBoardManager/Categories/IQNSArray+Sort.h";
+			sourceTree = "<group>";
+		};
+		450481E523FF1B7B94EF98EF = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = "IQUIView+Hierarchy.m";
+			path = "IQKeyBoardManager/Categories/IQUIView+Hierarchy.m";
+			sourceTree = "<group>";
+		};
+		46B5355D53CFA2D5726FFBD1 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text;
+			name = Podfile;
+			path = ../Podfile;
+			sourceTree = SOURCE_ROOT;
+			xcLanguageSpecificationIdentifier = xcode.lang.ruby;
+		};
+		5056709C7E5A3A1B7A8DA3D7 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = KeyboardManager.h;
+			path = IQKeyBoardManager/KeyboardManager.h;
+			sourceTree = "<group>";
+		};
+		5319D003C56B80418362C003 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "UIProgressView+AFNetworking.h";
+			path = "UIKit+AFNetworking/UIProgressView+AFNetworking.h";
+			sourceTree = "<group>";
+		};
+		53DC1E0D0BBD20F081165E70 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = IQBarButtonItem.m;
+			path = IQKeyBoardManager/IQToolbar/IQBarButtonItem.m;
+			sourceTree = "<group>";
+		};
+		601055C50BDABB82161FAD4B = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = AFURLRequestSerialization.m;
+			path = AFNetworking/AFURLRequestSerialization.m;
+			sourceTree = "<group>";
+		};
+		6443CDD1166248CDA7F7FAA3 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = "wrapper.plug-in";
+			name = IQKeyboardManager.bundle;
+			path = IQKeyBoardManager/Resources/IQKeyboardManager.bundle;
+			sourceTree = "<group>";
+		};
+		67B6C30484965C4319123EA5 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "UIActivityIndicatorView+AFNetworking.h";
+			path = "UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h";
+			sourceTree = "<group>";
+		};
+		697C240D7F769439CC2351D8 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = AFSecurityPolicy.h;
+			path = AFNetworking/AFSecurityPolicy.h;
+			sourceTree = "<group>";
+		};
+		6B7D7299B29B9EF697316860 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = IQTextView.h;
+			path = IQKeyBoardManager/IQTextView/IQTextView.h;
+			sourceTree = "<group>";
+		};
+		6CCEAD12885F2A0F11E6A98D = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = IQKeyboardManagerConstants.h;
+			path = IQKeyBoardManager/Constants/IQKeyboardManagerConstants.h;
+			sourceTree = "<group>";
+		};
+		72BD61138F71C54F507071A0 = {
+			isa = PBXFileReference;
+			explicitFileType = archive.ar;
+			includeInIndex = 0;
+			name = libPods.a;
+			path = libPods.a;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		74C333535E6FAF3E2DC7347A = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = AFURLConnectionOperation.h;
+			path = AFNetworking/AFURLConnectionOperation.h;
+			sourceTree = "<group>";
+		};
+		7814AB3EDF998528A90AD791 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "Pods-IQKeyboardManager-dummy.m";
+			sourceTree = "<group>";
+		};
+		7A3B54590B673C10B6EC2B16 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "IQUIView+IQKeyboardToolbar.h";
+			path = "IQKeyBoardManager/IQToolbar/IQUIView+IQKeyboardToolbar.h";
+			sourceTree = "<group>";
+		};
+		7D622800E55CBCBA2482A57C = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = AFHTTPSessionManager.m;
+			path = AFNetworking/AFHTTPSessionManager.m;
+			sourceTree = "<group>";
+		};
+		7EE947957A3F30C96DE375C4 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = AFHTTPRequestOperation.h;
+			path = AFNetworking/AFHTTPRequestOperation.h;
+			sourceTree = "<group>";
+		};
+		846AD9698D796257716B753A = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = IQTitleBarButtonItem.m;
+			path = IQKeyBoardManager/IQToolbar/IQTitleBarButtonItem.m;
+			sourceTree = "<group>";
+		};
+		851797639460470C617E84FE = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = AFURLResponseSerialization.h;
+			path = AFNetworking/AFURLResponseSerialization.h;
+			sourceTree = "<group>";
+		};
+		874A9DCC4F8B7DA32CCB8DB5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			path = AMapSearchKit.framework;
+			sourceTree = "<group>";
+		};
+		881EF246304B6D7B0B662DDC = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			path = "Pods-AFNetworking-prefix.pch";
+			sourceTree = "<group>";
+		};
+		8B3E0FD479B078D94F11E177 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Security.framework;
+			path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Security.framework;
+			sourceTree = DEVELOPER_DIR;
+		};
+		8B68E21EF49E36116BD623E8 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = "UIImageView+AFNetworking.m";
+			path = "UIKit+AFNetworking/UIImageView+AFNetworking.m";
+			sourceTree = "<group>";
+		};
+		8CCA7FF1B99363AE0EAB2DA7 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = IQKeyboardReturnKeyHandler.h;
+			path = IQKeyBoardManager/IQKeyboardReturnKeyHandler.h;
+			sourceTree = "<group>";
+		};
+		9353F6F7CD9E3AED34D9F4BD = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = IQTextView.m;
+			path = IQKeyBoardManager/IQTextView/IQTextView.m;
+			sourceTree = "<group>";
+		};
+		9689326C822B11A34F7795B0 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = AFHTTPRequestOperationManager.m;
+			path = AFNetworking/AFHTTPRequestOperationManager.m;
+			sourceTree = "<group>";
+		};
+		97A760AF615C6D3E77A954EC = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = "UIWebView+AFNetworking.m";
+			path = "UIKit+AFNetworking/UIWebView+AFNetworking.m";
+			sourceTree = "<group>";
+		};
+		99615ECBB5C4E7009318A451 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "UIAlertView+AFNetworking.h";
+			path = "UIKit+AFNetworking/UIAlertView+AFNetworking.h";
+			sourceTree = "<group>";
+		};
+		A126BDECACFCCC41F1B17169 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "IQUIView+Hierarchy.h";
+			path = "IQKeyBoardManager/Categories/IQUIView+Hierarchy.h";
+			sourceTree = "<group>";
+		};
+		A160E4A5F5C62A14224250E9 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "UIRefreshControl+AFNetworking.h";
+			path = "UIKit+AFNetworking/UIRefreshControl+AFNetworking.h";
+			sourceTree = "<group>";
+		};
+		A21F9B3F2DF6EC62E8E81C7A = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = "UIAlertView+AFNetworking.m";
+			path = "UIKit+AFNetworking/UIAlertView+AFNetworking.m";
+			sourceTree = "<group>";
+		};
+		A5FAE22486C3BB536255EF60 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = IQKeyboardManagerConstantsInternal.h;
+			path = IQKeyBoardManager/Constants/IQKeyboardManagerConstantsInternal.h;
+			sourceTree = "<group>";
+		};
+		A60C4D36AF46955E111DCA84 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = "IQNSArray+Sort.m";
+			path = "IQKeyBoardManager/Categories/IQNSArray+Sort.m";
+			sourceTree = "<group>";
+		};
+		A6A90F4076DF39CF6B129BBA = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Foundation.framework;
+			path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework;
+			sourceTree = DEVELOPER_DIR;
+		};
+		A8E8838EEC84F5624707B93B = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "UIKit+AFNetworking.h";
+			path = "UIKit+AFNetworking/UIKit+AFNetworking.h";
+			sourceTree = "<group>";
+		};
+		AA9297B4BC772BF28C4EEDAD = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			path = "Pods-environment.h";
+			sourceTree = "<group>";
+		};
+		B0666B719CD12D105323804A = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "UIWebView+AFNetworking.h";
+			path = "UIKit+AFNetworking/UIWebView+AFNetworking.h";
+			sourceTree = "<group>";
+		};
+		B4E741C18583F7CD1751FC19 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.xcconfig;
+			path = Pods.release.xcconfig;
+			sourceTree = "<group>";
+		};
+		BB1529B0DE1FD9056FCFE1D5 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = AFNetworking.h;
+			path = AFNetworking/AFNetworking.h;
+			sourceTree = "<group>";
+		};
+		BBAD6BA1594E8B92C5C76AFB = {
+			isa = PBXFileReference;
+			explicitFileType = archive.ar;
+			includeInIndex = 0;
+			name = "libPods-IQKeyboardManager.a";
+			path = "libPods-IQKeyboardManager.a";
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BDEF42F3B459C24B07A14856 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "IQUIWindow+Hierarchy.h";
+			path = "IQKeyBoardManager/Categories/IQUIWindow+Hierarchy.h";
+			sourceTree = "<group>";
+		};
+		C00BEBCB7C01D755C9548CA3 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = AFHTTPRequestOperationManager.h;
+			path = AFNetworking/AFHTTPRequestOperationManager.h;
+			sourceTree = "<group>";
+		};
+		C218900670E2272A03F7556C = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.plist.xml;
+			path = "Pods-acknowledgements.plist";
+			sourceTree = "<group>";
+		};
+		C2619912CC333C26A5B2788A = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.xcconfig;
+			path = "Pods-AFNetworking.xcconfig";
+			sourceTree = "<group>";
+		};
+		C4583995B99942F7387C4A49 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = SystemConfiguration.framework;
+			path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/SystemConfiguration.framework;
+			sourceTree = DEVELOPER_DIR;
+		};
+		C49DF600DE9860CAEF983F15 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = IQKeyboardManager.m;
+			path = IQKeyBoardManager/IQKeyboardManager.m;
+			sourceTree = "<group>";
+		};
+		C56994E913614926A50B5C43 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.xcconfig;
+			path = Pods.debug.xcconfig;
+			sourceTree = "<group>";
+		};
+		C6A62089248425B7834E74CD = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = "IQUIView+IQKeyboardToolbar.m";
+			path = "IQKeyBoardManager/IQToolbar/IQUIView+IQKeyboardToolbar.m";
+			sourceTree = "<group>";
+		};
+		C7A57619715B7226B8CC2945 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = AFURLResponseSerialization.m;
+			path = AFNetworking/AFURLResponseSerialization.m;
+			sourceTree = "<group>";
+		};
+		C9D568FDFC4E5D35204AA844 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = IQToolbar.h;
+			path = IQKeyBoardManager/IQToolbar/IQToolbar.h;
+			sourceTree = "<group>";
+		};
+		D077B0163C9417BA90EE9323 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = CoreGraphics.framework;
+			path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/CoreGraphics.framework;
+			sourceTree = DEVELOPER_DIR;
+		};
+		D2B10FAAD287B7B4A5D86CF4 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = AFURLConnectionOperation.m;
+			path = AFNetworking/AFURLConnectionOperation.m;
+			sourceTree = "<group>";
+		};
+		D7040F8BA55BFBD0D6B6A55C = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = AFNetworkReachabilityManager.h;
+			path = AFNetworking/AFNetworkReachabilityManager.h;
+			sourceTree = "<group>";
+		};
+		D7559AD7882BF291EC1BD7D0 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.xcconfig;
+			path = "Pods-AFNetworking-Private.xcconfig";
+			sourceTree = "<group>";
+		};
+		D799A5C7369B88ED3A53C28E = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			path = "Pods-IQKeyboardManager-prefix.pch";
+			sourceTree = "<group>";
+		};
+		DC66AD2A9657BCE003368AF1 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "Pods-dummy.m";
+			sourceTree = "<group>";
+		};
+		DFDAC7B868D32E2B49D92C4F = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = AFNetworkActivityIndicatorManager.m;
+			path = "UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m";
+			sourceTree = "<group>";
+		};
+		E3E16DB1546F3D46419F4F29 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = "UIRefreshControl+AFNetworking.m";
+			path = "UIKit+AFNetworking/UIRefreshControl+AFNetworking.m";
+			sourceTree = "<group>";
+		};
+		EB2D5823EA8ADC696BC4A6AD = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = "wrapper.plug-in";
+			name = AMap.bundle;
+			path = MAMapKit.framework/Versions/2.5.1.174fe76.60159/Resources/AMap.bundle;
+			sourceTree = "<group>";
+		};
+		EC2E92917DEB87A6EDB1A37E = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = IQKeyboardReturnKeyHandler.m;
+			path = IQKeyBoardManager/IQKeyboardReturnKeyHandler.m;
+			sourceTree = "<group>";
+		};
+		EE60FD366C5C059577E3799A = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text;
+			path = "Pods-acknowledgements.markdown";
+			sourceTree = "<group>";
+		};
+		F2349E699AC2D28AE72A14CD = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = AFURLSessionManager.h;
+			path = AFNetworking/AFURLSessionManager.h;
+			sourceTree = "<group>";
+		};
+		F72A83DB29A199F0643BF886 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = "IQUIWindow+Hierarchy.m";
+			path = "IQKeyBoardManager/Categories/IQUIWindow+Hierarchy.m";
+			sourceTree = "<group>";
+		};
+		FA127943919F1CC1A80EA2AA = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = AFSecurityPolicy.m;
+			path = AFNetworking/AFSecurityPolicy.m;
+			sourceTree = "<group>";
+		};
+		FDDC1C2BF72E869D7BC52F90 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = AFNetworkReachabilityManager.m;
+			path = AFNetworking/AFNetworkReachabilityManager.m;
+			sourceTree = "<group>";
+		};
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4473E7E9B9A3A563FA354EB7 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				648BAFFA6D14E8317426B46C,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9E5A7C436F74343609848B2F = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D07136C491C952320BFCAA58,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C82C03609E1173F7AE5FD607 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				282720A2F449B90A01EDDC25,
+				B440A2906167C2233A019E81,
+				A4188B37A8D9AC7EE956F44D,
+				903B48980AFF10D25591AF98,
+				CCC7904C4436B50FC3E55A7A,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		09DFEABE1EA4A4238CF5719A = {
+			isa = PBXGroup;
+			children = (
+				BB1529B0DE1FD9056FCFE1D5,
+				66EBEA96F9F4FB7E206EEF8C,
+				42C2B14CC971CC250FF212F2,
+				C8B29376A2682359A58AA3CA,
+				37BCBD8C2D199AF7173071C0,
+				210B775A57C22A0BC2739E47,
+				4B82AA57D655F3F9233142F6,
+				F801331629EB2509FA563715,
+			);
+			name = AFNetworking;
+			path = AFNetworking;
+			sourceTree = "<group>";
+		};
+		11787708D6ED3508E662718F = {
+			isa = PBXGroup;
+			children = (
+				6443CDD1166248CDA7F7FAA3,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		117C50BF646BD1ADEE16EB28 = {
+			isa = PBXGroup;
+			children = (
+				0497F666608AA9BA7EBE1C84,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		210B775A57C22A0BC2739E47 = {
+			isa = PBXGroup;
+			children = (
+				0B0348CE8A19E47D77F49C31,
+				601055C50BDABB82161FAD4B,
+				851797639460470C617E84FE,
+				C7A57619715B7226B8CC2945,
+			);
+			name = Serialization;
+			sourceTree = "<group>";
+		};
+		37BCBD8C2D199AF7173071C0 = {
+			isa = PBXGroup;
+			children = (
+				697C240D7F769439CC2351D8,
+				FA127943919F1CC1A80EA2AA,
+			);
+			name = Security;
+			sourceTree = "<group>";
+		};
+		41C5736487E8152B764CAF0C = {
+			isa = PBXGroup;
+			children = (
+				935049227721DD3E3D1FA8BE,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		42C2B14CC971CC250FF212F2 = {
+			isa = PBXGroup;
+			children = (
+				3BC672512BBDF16C8B7135B7,
+				7D622800E55CBCBA2482A57C,
+				F2349E699AC2D28AE72A14CD,
+				18794558FB5DFC1932318E4B,
+			);
+			name = NSURLSession;
+			sourceTree = "<group>";
+		};
+		4B82AA57D655F3F9233142F6 = {
+			isa = PBXGroup;
+			children = (
+				C2619912CC333C26A5B2788A,
+				D7559AD7882BF291EC1BD7D0,
+				3870FE3F13B796C005F40AED,
+				881EF246304B6D7B0B662DDC,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/Pods-AFNetworking";
+			sourceTree = "<group>";
+		};
+		4CC356F5297752F71B350FDC = {
+			isa = PBXGroup;
+			children = (
+				EB2D5823EA8ADC696BC4A6AD,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		4DDAFFD3BDC24F1C00ADF94E = {
+			isa = PBXGroup;
+			children = (
+				3687B71CACC7A3064AD30D11,
+				0F7C96A1678401A4D6154DFF,
+				7814AB3EDF998528A90AD791,
+				D799A5C7369B88ED3A53C28E,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/Pods-IQKeyboardManager";
+			sourceTree = "<group>";
+		};
+		53909F55D07C98D8126FEA72 = {
+			isa = PBXGroup;
+			children = (
+				E974E31632747171C98A4E85,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		586C035B354C022C8C0E23D7 = {
+			isa = PBXGroup;
+			children = (
+				72BD61138F71C54F507071A0,
+				08FA2C4C9F099E3D288B0982,
+				BBAD6BA1594E8B92C5C76AFB,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5CE4609E541E6A63EA19BD91 = {
+			isa = PBXGroup;
+			children = (
+				09DFEABE1EA4A4238CF5719A,
+				7A686BC96A3A40F6FC5BCD04,
+				621BA2301CADA365BC27828C,
+				8601A35601B5EFB9B08B55D5,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		621BA2301CADA365BC27828C = {
+			isa = PBXGroup;
+			children = (
+				A5BBEEBF655B130A8F14B50B,
+			);
+			name = AMapSearch;
+			path = AMapSearch;
+			sourceTree = "<group>";
+		};
+		66EBEA96F9F4FB7E206EEF8C = {
+			isa = PBXGroup;
+			children = (
+				7EE947957A3F30C96DE375C4,
+				11B001EAF843396AB2FA580F,
+				C00BEBCB7C01D755C9548CA3,
+				9689326C822B11A34F7795B0,
+				74C333535E6FAF3E2DC7347A,
+				D2B10FAAD287B7B4A5D86CF4,
+			);
+			name = NSURLConnection;
+			sourceTree = "<group>";
+		};
+		7A686BC96A3A40F6FC5BCD04 = {
+			isa = PBXGroup;
+			children = (
+				117C50BF646BD1ADEE16EB28,
+				4CC356F5297752F71B350FDC,
+			);
+			name = AMap3DMap;
+			path = AMap3DMap;
+			sourceTree = "<group>";
+		};
+		8601A35601B5EFB9B08B55D5 = {
+			isa = PBXGroup;
+			children = (
+				1D013BE043AE87D8DF1D027E,
+				53DC1E0D0BBD20F081165E70,
+				24514BD0C3EE4DC6404620C6,
+				C49DF600DE9860CAEF983F15,
+				6CCEAD12885F2A0F11E6A98D,
+				A5FAE22486C3BB536255EF60,
+				8CCA7FF1B99363AE0EAB2DA7,
+				EC2E92917DEB87A6EDB1A37E,
+				4289C69E5F55E42C8AF272AA,
+				A60C4D36AF46955E111DCA84,
+				2445EA860AE56CA19DA9871B,
+				23CEC109F85B2B4141CB2FCF,
+				6B7D7299B29B9EF697316860,
+				9353F6F7CD9E3AED34D9F4BD,
+				09FDA805373B687CC49C5000,
+				846AD9698D796257716B753A,
+				C9D568FDFC4E5D35204AA844,
+				20891B4DD79CE05439C5C8E3,
+				A126BDECACFCCC41F1B17169,
+				450481E523FF1B7B94EF98EF,
+				7A3B54590B673C10B6EC2B16,
+				C6A62089248425B7834E74CD,
+				BDEF42F3B459C24B07A14856,
+				F72A83DB29A199F0643BF886,
+				5056709C7E5A3A1B7A8DA3D7,
+				11787708D6ED3508E662718F,
+				4DDAFFD3BDC24F1C00ADF94E,
+			);
+			name = IQKeyboardManager;
+			path = IQKeyboardManager;
+			sourceTree = "<group>";
+		};
+		935049227721DD3E3D1FA8BE = {
+			isa = PBXGroup;
+			children = (
+				D077B0163C9417BA90EE9323,
+				A6A90F4076DF39CF6B129BBA,
+				1A0158D1D16394581966956F,
+				8B3E0FD479B078D94F11E177,
+				C4583995B99942F7387C4A49,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		A5BBEEBF655B130A8F14B50B = {
+			isa = PBXGroup;
+			children = (
+				874A9DCC4F8B7DA32CCB8DB5,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C8B29376A2682359A58AA3CA = {
+			isa = PBXGroup;
+			children = (
+				D7040F8BA55BFBD0D6B6A55C,
+				FDDC1C2BF72E869D7BC52F90,
+			);
+			name = Reachability;
+			sourceTree = "<group>";
+		};
+		D4F7895FCCBD63DBA11F22BD = {
+			isa = PBXGroup;
+			children = (
+				46B5355D53CFA2D5726FFBD1,
+				41C5736487E8152B764CAF0C,
+				5CE4609E541E6A63EA19BD91,
+				586C035B354C022C8C0E23D7,
+				53909F55D07C98D8126FEA72,
+			);
+			sourceTree = "<group>";
+		};
+		E974E31632747171C98A4E85 = {
+			isa = PBXGroup;
+			children = (
+				EE60FD366C5C059577E3799A,
+				C218900670E2272A03F7556C,
+				DC66AD2A9657BCE003368AF1,
+				AA9297B4BC772BF28C4EEDAD,
+				30903D6A5A38FF4711A27E59,
+				C56994E913614926A50B5C43,
+				B4E741C18583F7CD1751FC19,
+			);
+			name = Pods;
+			path = "Target Support Files/Pods";
+			sourceTree = "<group>";
+		};
+		F801331629EB2509FA563715 = {
+			isa = PBXGroup;
+			children = (
+				33F3F2662C172795F848AC74,
+				DFDAC7B868D32E2B49D92C4F,
+				67B6C30484965C4319123EA5,
+				42776252B6BD10168C80DBCC,
+				99615ECBB5C4E7009318A451,
+				A21F9B3F2DF6EC62E8E81C7A,
+				2E7FC854EF7109BA40CECC4C,
+				3FAF37AB443AE4601B76CD6B,
+				15557286DA9B4B4DAEF1EB42,
+				8B68E21EF49E36116BD623E8,
+				A8E8838EEC84F5624707B93B,
+				5319D003C56B80418362C003,
+				3FBCCD01D883DF5520FCE3A7,
+				A160E4A5F5C62A14224250E9,
+				E3E16DB1546F3D46419F4F29,
+				B0666B719CD12D105323804A,
+				97A760AF615C6D3E77A954EC,
+			);
+			name = UIKit;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		49D1600BA0ADFC0277E92CED = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D041D9F4A2A3E08A30BF0437,
+				A35AB26895B31839162CB7D5,
+				8E1A6D98C01F6726B4581CCC,
+				24399298C39D0E5AC57D037A,
+				519C809D430C9788BA5F66BA,
+				A21499D7F16D7A9F6688DE08,
+				BB8A66EEE0F89F590E2362BE,
+				2B402AE9DA2670278AF35011,
+				23AAB44EA3D8FC4EDBA74EB8,
+				FA8BA4A3F418C5E3981C2A07,
+				943D7447471D9F143A41C4D6,
+				5FCC332323C4A1A2E3BFC4B7,
+				4B0C586B0677322FB6F01FA4,
+				5763A7A9DF46C5F89CD35906,
+				218638A4A1991BF9C872DBD4,
+				472A45D8379BCF63E3B47243,
+				7B1116D4718639A18BCEC6CC,
+				F4794FF4A0C2E18DAE13DE88,
+				3EBCAAA69035AC657E751206,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		503071EBDF37BDAB19D23162 = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				16C15B6B2E454A5BBB0F6F80,
+				DA5F4B29C685E99CE9584A50,
+				73D02CC301DC2E4CDE44ADD0,
+				F55C8CE74FB8F36D2C6D9C89,
+				CFD4BE13041DF7EB0171B568,
+				2F62FD9FDBE87E0B96BDD370,
+				C5EAAC9184ECF9367C4A59A5,
+				67153D8226DAD2C0757D9793,
+				588B79F9A1D8F28C74F7A601,
+				A436B5F48748C3093CA445E0,
+				10CF4BEE1E473A9260970863,
+				4F0DAB398B44E817BECD1DFF,
+				E0E0819723EFF5B099686A89,
+				690D2FA8BEB1FD9D660A57CF,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		34B9449DED49BF85C9BBB6DE = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A7E2980A544B21FA5F9BB8A7;
+			buildPhases = (
+				263521D9F78ADB769212A5F4,
+				9E5A7C436F74343609848B2F,
+				503071EBDF37BDAB19D23162,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-IQKeyboardManager";
+			productName = "Pods-IQKeyboardManager";
+			productReference = BBAD6BA1594E8B92C5C76AFB;
+			productType = "com.apple.product-type.library.static";
+		};
+		690722FD17E7D6932E308861 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FB63D3EA5D01D840AED26443;
+			buildPhases = (
+				0994282C22CFC94825ACD924,
+				4473E7E9B9A3A563FA354EB7,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E5C75F8A04D669B04809DA8B,
+				00AFA9046C462FE3A303D999,
+			);
+			name = Pods;
+			productName = Pods;
+			productReference = 72BD61138F71C54F507071A0;
+			productType = "com.apple.product-type.library.static";
+		};
+		D29F721C6A90D374F0CC7979 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 90131C19725DCB072F08F972;
+			buildPhases = (
+				A3F1FBA1841F78CF8FCD2524,
+				C82C03609E1173F7AE5FD607,
+				49D1600BA0ADFC0277E92CED,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-AFNetworking";
+			productName = "Pods-AFNetworking";
+			productReference = 08FA2C4C9F099E3D288B0982;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D8E574ECDEF5B11953977813 = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0640;
+			};
+			buildConfigurationList = 9340CFF93F0DC50A6F2A55B0;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = D4F7895FCCBD63DBA11F22BD;
+			productRefGroup = 586C035B354C022C8C0E23D7;
+			projectDirPath = "";
+			projectReferences = (
+			);
+			projectRoot = "";
+			targets = (
+				690722FD17E7D6932E308861,
+				D29F721C6A90D374F0CC7979,
+				34B9449DED49BF85C9BBB6DE,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0994282C22CFC94825ACD924 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6C207D697D5EBB1B4AD8FF67,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		263521D9F78ADB769212A5F4 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				42C1B777F4EB0DE3070E43BF,
+				FAFB628E97600B670F81F75E,
+				B497092FCC09D6239B2A175F,
+				14D0BCB1D4C12D46539EBFAB,
+				A2C515B2769A97571A129814,
+				FD11327815DC6EC24FE24FE9,
+				4435DEA65B96F5BCE273AEC1,
+				94F649720E9EC44ADA543F7F,
+				624441CE20FAD962B4C50857,
+				A3EA604FBBEA0658FA85C80B,
+				BFE75ECE431FF031B6F56998,
+				24366783974BAED030200946,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3F1FBA1841F78CF8FCD2524 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DB0B796205961AEE06ED0D40,
+				2C400E3D14E7A8F3398EBF4F,
+				8137BC43F7D993C5B33BD9F0,
+				007F391144C56F58EE0552B3,
+				9C5BCA3D6D55F8BB6A1B2747,
+				6B351A79D60CDB9DEF155427,
+				F8939630C712D8C6C7797919,
+				694D6A7B6573D6F24FFC7B13,
+				6A86DF93F2647F6E807DBDDB,
+				30A11BB677606A3563C37955,
+				561A684F190C918197E260E6,
+				E4181F4CDE2C7481AA7B516D,
+				E998580258B5679CAA8E7A60,
+				863473E271EF98E48BF6E44C,
+				31A0F74CAA7F7D4F98873B51,
+				F01AF89CD0DF05A41C18114C,
+				6DFCBEA297B587C467A154B0,
+				35D3F309D7ABF3FC85382C50,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		00AFA9046C462FE3A303D999 = {
+			isa = PBXTargetDependency;
+			name = "Pods-IQKeyboardManager";
+			target = 34B9449DED49BF85C9BBB6DE;
+			targetProxy = D517847E5F1C14DEF32B391D;
+		};
+		E5C75F8A04D669B04809DA8B = {
+			isa = PBXTargetDependency;
+			name = "Pods-AFNetworking";
+			target = D29F721C6A90D374F0CC7979;
+			targetProxy = 31881A39A90F99AFC308820A;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		00BC284407E61EE5E6B89EBB = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C56994E913614926A50B5C43;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		1636E8232E72A90B1C2BE8A9 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		301F6DA7603F238022948DD5 = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0F7C96A1678401A4D6154DFF;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-IQKeyboardManager/Pods-IQKeyboardManager-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		329E97B547D1A5D33C056492 = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B4E741C18583F7CD1751FC19;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		79107AD20281EFA3D84A9B5C = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D7559AD7882BF291EC1BD7D0;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-AFNetworking/Pods-AFNetworking-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		797991B3C45CF94EE250D739 = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D7559AD7882BF291EC1BD7D0;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-AFNetworking/Pods-AFNetworking-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		83C678BCD12AC054CD3C84EA = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"RELEASE=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9FE23F3153188A8056CCAA72 = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0F7C96A1678401A4D6154DFF;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-IQKeyboardManager/Pods-IQKeyboardManager-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		90131C19725DCB072F08F972 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				797991B3C45CF94EE250D739,
+				79107AD20281EFA3D84A9B5C,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9340CFF93F0DC50A6F2A55B0 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1636E8232E72A90B1C2BE8A9,
+				83C678BCD12AC054CD3C84EA,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A7E2980A544B21FA5F9BB8A7 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				301F6DA7603F238022948DD5,
+				9FE23F3153188A8056CCAA72,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FB63D3EA5D01D840AED26443 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				00BC284407E61EE5E6B89EBB,
+				329E97B547D1A5D33C056492,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D8E574ECDEF5B11953977813;
+}
